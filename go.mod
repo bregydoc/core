@@ -20,9 +20,12 @@ require (
 	github.com/graphql-go/graphql v0.7.10-0.20210411022516-8a92e977c10b // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
+	github.com/lib/pq v1.10.3
+	github.com/mattn/go-sqlite3 v1.14.8
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/vmihailenco/tagparser v0.1.2 // indirect
+	github.com/xo/dburl v0.9.0
 	golang.org/x/mod v0.4.2 // indirect
 	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
 	golang.org/x/tools v0.1.5 // indirect
